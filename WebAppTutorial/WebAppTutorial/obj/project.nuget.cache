@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XVCkZCq8fbRk0DC7WNcW2IxP8aZxJWFOzLka21wnWYlxrpFD8wsMiTlBsR2JRG4zYSmM5lkCAQg/PgPYoAIe0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flowe\\Documents\\GitHub\\Visual Studio Code\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flowe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
